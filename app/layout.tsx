@@ -21,7 +21,7 @@ export default function RootLayout({
         <div className="whatsapp-banner">
           <p style={{ margin: 0 }}>
             <strong>Tip:</strong> Want to order quickly?{" "}
-            <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/201500405567" target="_blank" rel="noopener noreferrer">
               Message us on WhatsApp
             </a>{" "}
             - we respond fast!
@@ -38,11 +38,11 @@ export default function RootLayout({
         <footer className="wp-footer">
           <div className="wp-footer-content">
             <p className="wp-powered-by">
-              <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/201500405567" target="_blank" rel="noopener noreferrer">
                 Order via WhatsApp
               </a>
               {" | "}
-              <a href="mailto:contact@example.com">contact@example.com</a>
+              <a href="mailto:contact@khalil.mageed.net">contact@khalil.mageed.net</a>
             </p>
             <p className="wp-powered-by" style={{ marginTop: "1rem" }}>
               Proudly powered by{" "}
